@@ -778,6 +778,22 @@ hr {
   margin-top: 130px;
 }
 
+.container2 {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 750px;
+}
+@media all and (min-width: 768px){
+.container2 {
+    width: 750px;
+}}
+
+.box3 .col-md-3 {
+    width: 33.3%;
+}
+
 /*
 body, p, div, h1, h2, h3, h4, h5, h6 {
 	font-family: "Open Sans", Arial, Verdana, Geneva, sans-serif;
